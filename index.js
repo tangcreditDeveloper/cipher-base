@@ -1,4 +1,4 @@
-var Transform = require('stream').Transform
+var Transform = require('react-native-stream').Transform
 var inherits = require('inherits')
 var StringDecoder = require('string_decoder').StringDecoder
 module.exports = CipherBase

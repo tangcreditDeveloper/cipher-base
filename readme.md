@@ -1,4 +1,4 @@
-cipher-base
+cipher-base 支持react-native
 ===
 
 [![Build Status](https://travis-ci.org/crypto-browserify/cipher-base.svg)](https://travis-ci.org/crypto-browserify/cipher-base)

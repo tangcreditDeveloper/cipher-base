@@ -1,5 +1,6 @@
 var Transform = require('react-native-stream').Transform
 var inherits = require('inherits')
+var Buffer = require('buffer').Buffer
 var StringDecoder = require('string_decoder').StringDecoder
 module.exports = CipherBase
 inherits(CipherBase, Transform)
